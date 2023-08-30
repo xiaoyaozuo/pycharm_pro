@@ -12,3 +12,5 @@ print('hot-fix test')
 print('asasas')
 print('acnajc')
 print('ass')
+
+print('push test')
