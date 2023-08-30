@@ -1,7 +1,7 @@
 
 for i in range(10):
     print(i)
-
+print('asas')
 print('abcde')
 print('hello git')
 print('test')
